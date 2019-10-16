@@ -21,6 +21,7 @@ import javax.swing.SwingUtilities;
  *
  * @author RavenPC
  */
+// Gönderen Gazihan Demir -1621012056 -------- alıcı Dicle Cömert 1521012060
 public class Server extends javax.swing.JFrame {
 
     /**
